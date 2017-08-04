@@ -1,4 +1,4 @@
-# Develop with SQL Server 2016
+# SQL Server 2016 による開発
 
 In this scenario we will learn about the new features of SQL Server 2016
 
